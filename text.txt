@@ -1,2 +1,3 @@
-Blahblahblah
-This is a text file.
+Blah
+Text
+Blah
